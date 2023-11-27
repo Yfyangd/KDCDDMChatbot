@@ -1,5 +1,5 @@
 # Conversion Web App Template
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+The paper assistant chatbot of [Knowledge Distillation Cross Domain Diffusion Models (KDCCDM) for Weakly Supervised Defect Detection in Semiconductor Manufacturing](https://yfyangd.github.io/KDCDDM/) deployed on **Vercel**.
 
 ## Config App
 Create a file named `.env.local` in the current directory and copy the contents from `.env.example`. Setting the following content:
@@ -63,10 +63,6 @@ To learn more about Next.js, take a look at the following resources:
 
 - [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
 - [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
 
 > ⚠️ If you are using [Vercel Hobby](https://vercel.com/pricing), your message will be trucated due to the limitation of vercel.
 
