@@ -4,9 +4,9 @@ export const API_KEY = `${process.env.NEXT_PUBLIC_APP_KEY}`
 export const API_URL = `${process.env.NEXT_PUBLIC_API_URL}`
 export const APP_INFO: AppInfo = {
   title: 'KDCDDM Chatbot',
-  description: 'Paper Reading Assistant Chatbot: KDCDDM',
-  copyright: 'Yuanfu Yang',
-  privacy_policy: 'We respect your privacy and are committed to protecting any information you share with us. Our Chatbot may collect certain personal and non-personal information to enhance your experience and improve our services. We do not sell or rent your information to others. Any changes to this policy will be updated here. By using our Chatbot, you agree to this policy.',
+  description: 'Paper Reading Assistant Chatbot of Knowledge Distillation Cross Domain Diffusion Models',
+  copyright: 'YuanFu Yang',
+  privacy_policy: 'https://docs.dify.ai/user-agreement/privacy-policy',
   default_language: 'en',
 }
 
