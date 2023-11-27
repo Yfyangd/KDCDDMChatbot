@@ -1,6 +1,9 @@
 # Conversion Web App Template
 The paper assistant chatbot of [Knowledge Distillation Cross Domain Diffusion Models (KDCCDM) for Weakly Supervised Defect Detection in Semiconductor Manufacturing](https://yfyangd.github.io/KDCDDM/) deployed on **Vercel**.
 
+## Chatbot
+Please click [here](https://kdcddm-chatbot.vercel.app/) to enter the chatbot. If you have any questions regarding the KDCDDM paper we've proposed, feel free to ask any questions.
+
 ## Config App
 Create a file named `.env.local` in the current directory and copy the contents from `.env.example`. Setting the following content:
 ```
